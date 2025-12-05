@@ -1,0 +1,10 @@
+bankname~type~marketcaptalisation~crore 
+#hdfc~private~14,72,995
+#icici~private~10,12,122
+#sbi~public~7,13,970
+#kotak~private~4,34,467
+#axis~private~3,66,092
+#bankofbaroda~public~1,28,565
+#punjab national~public~1,14,608
+#uninon~public~96,351
+#canara~private~85,879
